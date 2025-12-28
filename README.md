@@ -342,3 +342,104 @@
 
 - **Updated DRC After Tech File Fix**  
   ![Updated DRC](images/day%203%20images/updated%20drc.JPG)
+
+  ## 📅 Day 4 – Timing Analysis & Clock Tree Synthesis
+
+### 🧩 Setup & Technology Files
+
+- **Tracks Info File**  
+  ![Tracks Info File](images/day%204%20images/tracks%20info%20file.JPG)
+
+- **LEF File (Slow-Slow Corner – SS)**  
+  ![LEF File SS](images/day%204%20images/lef%20file%20ss.JPG)
+
+- **Commands to Copy LEF File**  
+  ![Copy LEF Commands](images/day%204%20images/copy%20lef%20file%20commands%20run.JPG)
+
+- **Commands to Include New LEF in Flow**  
+  ![Include New LEF](images/day%204%20images/commands%20to%20include%20new%20lef.JPG)
+
+---
+
+### ⚙️ Design Configuration & Synthesis
+
+- **Modified `config.tcl`**  
+  ![Modified Config TCL](images/day%204%20images/modified%20config%20tcl.JPG)
+
+- **Prep Final Design**  
+  ![Prep Final Design](images/day%204%20images/prep%20final%20design.JPG)
+
+- **✅ Successful Synthesis (Initial)**  
+  ![Successful Synthesis](images/day%204%20images/successful%20synthesis.JPG)
+
+- **✅ Successful Synthesis – Second Run**  
+  ![Successful Synthesis 2](images/day%204%20images/successful%20synthesis2.JPG)
+
+- **✅ Optimized Synthesis Completed**  
+  ![Optimized Synthesis](images/day%204%20images/optimised%20synthesis%20successfull.JPG)
+
+- **💾 Save Checkpoint #1**  
+  ![Save Number 1](images/day%204%20images/save%20number%201.JPG)
+
+---
+
+### 🏗️ Floorplanning & Placement
+
+- **❌ Failed Initial Floorplan**  
+  ![Failed Floorplan](images/day%204%20images/failed%20initial%20floorplan.JPG)
+
+- **✅ Manual Multi-Step Floorplan Success**  
+  ![Manual Floorplan](images/day%204%20images/manual%20multi%20step%20floorplan.JPG)
+
+- **✅ Placement Completed**  
+  ![Placement Done](images/day%204%20images/placement%20done.JPG)
+
+- **Placement DEF File**  
+  ![Placement DEF](images/day%204%20images/placement%20def%20file.JPG)
+
+- **Instance of Our Custom Cell in Layout**  
+  ![Custom Cell Instance](images/day%204%20images/instance%20of%20our%20custom%20cell.JPG)
+
+- **Expanded View of Custom Cell**  
+  ![Expanded View](images/day%204%20images/expanded%20view.JPG)
+
+---
+
+### ⏱️ Static Timing Analysis (STA)
+
+- **Base SDC Constraints File**  
+  ![Base SDC](images/day%204%20images/base%20sdc.JPG)
+
+- **Pre-STA Configuration**  
+  ![Pre STA Conf](images/day%204%20images/pre%20sta%20conf.JPG)
+
+- **STA Run – Initial**  
+  ![STA Run](images/day%204%20images/sta%20run.JPG)
+
+- **STA Run – Second Pass**  
+  ![STA Run 2](images/day%204%20images/sta%20run%202.JPG)
+
+- **STA – Final Verification**  
+  ![STA Once More](images/day%204%20images/sta%20once%20more.JPG)
+
+---
+
+### 🔍 Timing Conditions & Optimization
+
+- **✅ Condition 1 Verified**  
+  ![Condition 1](images/day%204%20images/condition%201%20verified.JPG)
+
+- **✅ Condition 2 Verified**  
+  ![Condition 2](images/day%204%20images/condition%202%20verified.JPG)
+
+- **Condition 3 (Under Evaluation)**  
+  ![Condition 3](images/day%204%20images/condition%203.JPG)
+
+- **OR Gate with Multiple Fanouts**  
+  ![OR Gate Fanout](images/day%204%20images/or%20gate%20multiple%20fanout.JPG)
+
+- **Cell Optimization Applied**  
+  ![Cell Optimisation](images/day%204%20images/cell%20optimisation.JPG)
+
+- **✅ Basic ECO (Engineering Change Order) Complete**  
+  ![Basic ECO Complete](images/day%204%20images/basic%20eco%20complete.JPG)
