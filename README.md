@@ -39,78 +39,77 @@ Documentation of my learning journey for this particular course.
 ## 📅 Day 1 – OpenLane & Synthesis Flow
 
 ### Lab Day 1 – Part 1
-<img src="images/day%201%20images/lab%20day%201%20part%201.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%201.JPG"/>
 
 ### Lab Day 1 – Part 2
 <img src="images/day%201%20images/lab%20day%20part%202.JPG"/>
 
 ### Lab Day 1 – Part 3
-<img src="images/day%201%20images/lab%20day%201%20part%203.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%203.JPG"/>
 
 ### Lab Day 1 – Part 4
-<img src="images/day%201%20images/lab%20day%201%20part%204.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%204.JPG"/>
 
 ### Lab Day 1 – Part 5
-<img src="images/day%201%20images/lab%20day%201%20part%205.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%205.JPG"/>
 
 ### Lab Day 1 – Part 6
-<img src="images/day%201%20images/lab%20day%201%20part%206.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%206.JPG"/>
 
 ### Lab Day 1 – Part 7
-<img src="images/day%201%20images/lab%20day%201%20part%207.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%207.JPG"/>
 
 ### Lab Day 1 – Part 8
-<img src="images/day%201%20images/lab%20day%201%20part%208.jpg"/>
+<img src="images/day%201%20images/lab%20day%201%20part%208.JPG"/>
 
 <hr/>
 
 ### OpenLane Work Directory (Day 1)
-<img src="images/day%201%20images/openlane%20work%20directory%20day%201.jpg"/>
+<img src="images/day%201%20images/openlane%20work%20directory%20day%201.JPG"/>
 
 ### OpenLane Open (Day 1)
-<img src="images/day%201%20images/day%201%20lab%20openlane%20open.jpg"/>
+<img src="images/day%201%20images/day%201%20lab%20openlane%20open.JPG"/>
 
 ### config.tcl File
-<img src="images/day%201%20images/day%201%20lab%20config.tcl%20fike.jpg"/>
+<img src="images/day%201%20images/day%201%20lab%20config.tcl%20fike.JPG"/>
 
 ### Prep Design – picorv32a
-<img src="images/day%201%20images/day%201%20lab%20prep%20-design%20picorv32a.jpg"/>
+<img src="images/day%201%20images/day%201%20lab%20prep%20-design%20picorv32a.JPG"/>
 
 ### New Runs File Created
-<img src="images/day%201%20images/day%201%20lab,%20new%20runs%20file%20created.jpg"/>
+<img src="images/day%201%20images/day%201%20lab,%20new%20runs%20file%20created.JPG"/>
 
 ### Results Folder
-<img src="images/day%201%20images/results%20folder%20day%201%20lab.jpg"/>
+<img src="images/day%201%20images/results%20folder%20day%201%20lab.JPG"/>
 
 ### Successful Synthesis
-<img src="images/day%201%20images/successful%20synthesis.jpg"/>
+<img src="images/day%201%20images/successful%20synthesis.JPG"/>
 
 ### Number of Flip-Flops
-<img src="images/day%201%20images/no%20of%20ff%201613%20day%201.jpg"/>
+<img src="images/day%201%20images/no%20of%20ff%201613%20day%201.JPG"/>
 
 ### FF Ratio (Final)
-<img src="images/day%201%20images/ff%20ratio%20final%20day%201.jpg"/>
+<img src="images/day%201%20images/ff%20ratio%20final%20day%201.JPG"/>
 
 ### FF Ratio (Percentage)
-<img src="images/day%201%20images/ff%20ratio%20in%20percentage%20day%201.jpg"/>
+<img src="images/day%201%20images/ff%20ratio%20in%20percentage%20day%201.JPG"/>
 
 ### Synthesised Netlist (Runs Folder)
-<img src="images/day%201%20images/synthesised%20netlist%20in%20runs%20folder.jpg"/>
+<img src="images/day%201%20images/synthesised%20netlist%20in%20runs%20folder.JPG"/>
 
 ### Synthesised Netlist (Gedit)
-<img src="images/day%201%20images/synthesised%20netlist%20in%20gedit%20day%201.jpg"/>
+<img src="images/day%201%20images/synthesised%20netlist%20in%20gedit%20day%201.JPG"/>
 
 ### Yosys Statistics Report
-<img src="images/day%201%20images/yosys%20statistics%20report%20day%201.jpg"/>
+<img src="images/day%201%20images/yosys%20statistics%20report%20day%201.JPG"/>
 
 ### Yosys Stats Report (Gedit)
-<img src="images/day%201%20images/yosys%20stats%20report%20gedit%20day%201.jpg"/>
+<img src="images/day%201%20images/yosys%20stats%20report%20gedit%20day%201.JPG"/>
 
 ### Available Reports
-<img src="images/day%201%20images/different%20available%20reports%20day%201.jpg"/>
+<img src="images/day%201%20images/different%20available%20reports%20day%201.JPG"/>
 
 ### OpenSTA Timing Report
-<img src="images/day%201%20images/opensta%20timing%20day%201.jpg"/>
-
+<img src="images/day%201%20images/opensta%20timing%20day%201.JPG"/>
 
 
