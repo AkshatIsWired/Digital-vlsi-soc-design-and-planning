@@ -443,3 +443,65 @@
 
 - **✅ Basic ECO (Engineering Change Order) Complete**  
   ![Basic ECO Complete](images/day%204%20images/basic%20eco%20complete.JPG)
+
+  ## 📅 Day 5 – Final Steps: CTS, PDN & Routing
+
+### 🧱 Final Placement & Optimization
+
+- **Final Placement View**  
+  ![Final Placement](images/day%205%20images/final%20placement.JPG)
+
+- **Final Optimizations Applied**  
+  ![Final Optimisations](images/day%205%20images/final%20optimisations.JPG)
+
+---
+
+### ⏱️ Clock Tree Synthesis (CTS)
+
+- **✅ Final Successful CTS**  
+  ![Successful CTS](images/day%205%20images/final%20successful%20cts.JPG)
+
+---
+
+### 🔌 Power Delivery Network (PDN)
+
+- **Final PDN Implementation**  
+  ![Final PDN](images/day%205%20images/final%20pdn.JPG)
+
+- **PDN in DEF Format**  
+  ![PDN DEF](images/day%205%20images/pdn%20def.JPG)
+
+- **PDN Power Lines – View 1**  
+  ![PDN Lines](images/day%205%20images/pdn%20lines.JPG)
+
+- **PDN Power Lines – View 2**  
+  ![PDN Lines 2](images/day%205%20images/pdn%20lines%202.JPG)
+
+---
+
+### 🧭 Global & Detailed Routing
+
+- **Routing in Progress**  
+  ![Ongoing Routing](images/day%205%20images/ongoing%20routing.JPG)
+
+- **✅ Routing Completed**  
+  ![Routing Completed](images/day%205%20images/routing%20completed.JPG)
+
+- **Final Routed Layout**  
+  ![Final Routed View](images/day%205%20images/final%20routed%20view.JPG)
+
+- **Zoomed-In Routed View**  
+  ![Final Routed Zoomed](images/day%205%20images/final%20routed%20zoomed%20view.JPG)
+
+- **`picorv32a` Final DEF (PNG Export)**  
+  ![picorv32a DEF PNG](images/day%205%20images/picorv32a%20def%20png.JPG)
+
+---
+
+### 🚀 OpenROAD Flow Execution
+
+- **OpenROAD Flow – Start**  
+  ![OpenROAD Start](images/day%205%20images/openroad%20start.JPG)
+
+- **OpenROAD Flow – End (RTL-to-GDS Complete!)**  
+  ![OpenROAD End](images/day%205%20images/openroad%20end.JPG)
