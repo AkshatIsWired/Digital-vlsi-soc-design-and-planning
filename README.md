@@ -226,3 +226,119 @@
 
 - **Model File (`.txt`)**  
   ![Model File](images/day%202%20images/model%20file%20txt].JPG)
+
+  ## 📅 Day 3 – Standard Cell Design, Layout & Characterization
+
+### 🧪 Custom Inverter Design in Magic
+
+- **Magic Custom Inverter**  
+  ![Magic Custom Inverter](images/day%203%20images/magic%20custom%20inverter.JPG)
+
+- **Inverter Layout View**  
+  ![Magic Custom Inverter Layout](images/day%203%20images/magic%20custom%20inverter%20layout.JPG)
+
+---
+
+### 🔬 CMOS Fabrication & Transistor Identification
+
+- **CMOS Fabrication Process Overview**  
+  ![CMOS Fab Process](images/day%203%20images/cmos%20fab%20process.JPG)
+
+- **NMOS Transistor Identified**  
+  ![NMOS Identified](images/day%203%20images/nmos%20indentified.JPG)
+
+- **PMOS Transistor Identified**  
+  ![PMOS Identified](images/day%203%20images/pmos%20identifies.JPG)
+
+- **Output `Y` Connected to PMOS & NMOS Drains**  
+  ![Output Connection](images/day%203%20images/output%20y%20connected%20to%20pmos%20and%20nmos%20drains.JPG)
+
+- **PMOS Source → VDD**  
+  ![PMOS to VDD](images/day%203%20images/pmos%20source%20to%20vdd.JPG)
+
+- **NMOS Source → VSS**  
+  ![NMOS to VSS](images/day%203%20images/nmos%20source%20to%20vss.JPG)
+
+---
+
+### ⚠️ Layout Editing & DRC Validation
+
+- **Deleting Layout to Trigger DRC Error**  
+  ![DRC Error Demo](images/day%203%20images/deleting%20necessary%20layout%20to%20see%20drc%20error.JPG)
+
+- **Selecting Random Area to Understand DRC Rules**  
+  ![DRC Understanding](images/day%203%20images/select%20random%20area%20and%20drc%20why.JPG)
+
+- **Via View in Magic**  
+  ![Via View](images/day%203%20images/via%20view%20in%20magic.JPG)
+
+- **Load Poly Layer in Magic**  
+  ![Load Poly](images/day%203%20images/load%20poly%20mag.JPG)
+
+---
+
+### 🔌 SPICE Extraction & Simulation
+
+- **SPICE Extraction Commands**  
+  ![SPICE Extraction](images/day%203%20images/spice%20extraction%20commands.JPG)
+
+- **Generated SPICE Netlist**  
+  ![Created SPICE File](images/day%203%20images/created%20spice%20file.JPG)
+
+- **SPICE File Explanation**  
+  ![SPICE Explanation](images/day%203%20images/explanantion%20of%20spice%20file.JPG)
+
+- **Grid Measurement for Layout Scaling**  
+  ![Grid Measurement](images/day%203%20images/grid%20measurement.JPG)
+
+- **Updated SPICE File – Version 1**  
+  ![SPICE v1](images/day%203%20images/updated%20spice%20file%201.JPG)
+
+- **Updated SPICE File – Version 2**  
+  ![SPICE v2](images/day%203%20images/updated%20spice%20file%202.JPG)
+
+- **Ngspice Simulation Run**  
+  ![Ngspice Run](images/day%203%20images/ngspice%20run.JPG)
+
+- **Ngspice Waveform – Inverter Response**  
+  ![Inverter Waveform](images/day%203%20images/ngspice%20waveform%20inverter.JPG)
+
+---
+
+### ⏱️ Timing Analysis from Simulation
+
+- **Rise Time – 20% Point**  
+  ![Rise Time 20%](images/day%203%20images/rise%20time%2020%20percent.JPG)
+
+- **X Value at 0.66·Y (20% of 3.3V)**  
+  ![X at 0.66Y](images/day%203%20images/x%20value%20for%20.66%20y%20value.JPG)
+
+- **Rise Time – 80% Point**  
+  ![Rise Time 80%](images/day%203%20images/rise%20time%2080%20percent.JPG)
+
+- **X Value at 2.64·Y (80% of 3.3V)**  
+  ![X at 2.64Y](images/day%203%20images/x%20value%20for%202.64%20y%20value.JPG)
+
+> 💡 **Note**: Rise time = `t₈₀% – t₂₀%` → used for characterization.
+
+---
+
+### 🛠️ SkyWater PDK & Magic Tech File Exploration
+
+- **Commands to Download & View Corrupted SkyWater Tech File**  
+  ![Corrupted Tech File Commands](images/day%203%20images/commands%20to%20download%20and%20view%20corrupted%20skywater%20process%20magic%20tech%20file.JPG)
+
+- **Metal 3 (M3) Magic Files**  
+  ![M3 Files](images/day%203%20images/met3%20magic%20files.JPG)
+
+- **Metal 3 Layout View**  
+  ![M3 Layout](images/day%203%20images/met%203%20magic%20layout.JPG)
+
+- **Edited Tech File – Version 1**  
+  ![Tech File v1](images/day%203%20images/edited%20tech%201.JPG)
+
+- **Edited Tech File – Version 2**  
+  ![Tech File v2](images/day%203%20images/edited%20tech%202.JPG)
+
+- **Updated DRC After Tech File Fix**  
+  ![Updated DRC](images/day%203%20images/updated%20drc.JPG)
