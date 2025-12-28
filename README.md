@@ -42,7 +42,7 @@ Documentation of my learning journey for this particular course.
 <img src="images/day%201%20images/lab%20day%201%20part%201.jpg"/>
 
 ### Lab Day 1 – Part 2
-<img src="images/day%201%20images/lab%20day%20part%202.jpg"/>
+<img src="images/day%201%20images/lab%20day%20part%202.JPG"/>
 
 ### Lab Day 1 – Part 3
 <img src="images/day%201%20images/lab%20day%201%20part%203.jpg"/>
